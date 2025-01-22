@@ -9,7 +9,8 @@ O **Monitoring-Kube** é um projeto focado no monitoramento de ambientes Kuberne
 ## Estrutura do Repositório
 
 - `dashboard-grafana/`: Contém os dashboards Grafana para monitoramento.
-- `images/`: Imagens utilizadas nos dashboards.
+-  dashboard-json/`: Dashboard exportadas
+- `img/`: Imagens utilizadas nos dashboards.
 - `scripts/`: Scripts para configurar e automatizar o ambiente.
 - `README.md`: Este arquivo de documentação.
 
